@@ -1,1 +1,3 @@
 # gitskills
+
+i love code 
